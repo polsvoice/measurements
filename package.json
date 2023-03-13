@@ -1,6 +1,6 @@
 {
-  "name": "unit-converter",
-  "description": "Converts between imperial and metric",
+  "name": "measurements",
+  "description": "Does a variety of calculations and unit conversions",
   "version": "1.0.0",
   "dependencies": {
     "express": "latest"
