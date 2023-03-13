@@ -1,0 +1,11 @@
+{
+  "name": "unit-converter",
+  "description": "Converts between imperial and metric",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {
+    "connect": "^2.14.2"
+  }
+}

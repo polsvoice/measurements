@@ -1,0 +1,36 @@
+@import url( http://fonts.googleapis.com/css?family=Varela+Round );
+
+*
+{
+	font-family: 'Varela Round', sans-serif;
+}
+
+button
+{
+	display: block;
+	margin-top: 2%;
+	padding: .25em;
+}
+
+input
+{
+	margin: 0 .75em;
+}
+
+#feetInMile
+{
+	height: 1.5em;
+	border: 1px solid black;
+	width: 30%;
+	padding: 1%;
+}
+
+#numfeet
+{
+	border: 1px solid black;
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	padding-left: 1em;
+	font-size: 20px;
+}
